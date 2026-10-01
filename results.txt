@@ -1,0 +1,36 @@
+ROUGE Evaluation Results
+========================
+
+Dataset: CNN/DailyMail
+Number of samples: 5
+Summarization model: sshleifer/distilbart-cnn-12-6
+
+Individual Sample Results
+-------------------------
+
+Sample 1:
+ROUGE-1 F1: 0.5352
+ROUGE-L F1: 0.4789
+
+Sample 2:
+ROUGE-1 F1: 0.5053
+ROUGE-L F1: 0.4421
+
+Sample 3:
+ROUGE-1 F1: 0.2824
+ROUGE-L F1: 0.2118
+
+Sample 4:
+ROUGE-1 F1: 0.3750
+ROUGE-L F1: 0.3000
+
+Sample 5:
+ROUGE-1 F1: 0.6301
+ROUGE-L F1: 0.2740
+
+
+Average Results
+---------------
+
+Average ROUGE-1 F1: 0.4656
+Average ROUGE-L F1: 0.3413
